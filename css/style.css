@@ -1,0 +1,58 @@
+.column {
+  font-family:sans-serif;
+  width: 350px;
+  float: left;
+  margin: 20px;
+}
+
+.smallcolumn {
+  font-family: sans-serif;
+  width: 175px;
+  float: left;
+}
+
+a:link {
+  color: teal;
+}
+a:hover{
+  color: yellow;
+}
+a:visited{
+  color: orange;
+}
+
+h2 {
+  margin: 10px;
+}
+
+.img {
+  margin: 15px;
+  width: 350px;
+  height: auto;
+  float: right;
+  bottom: 0;
+  position: relative;
+}
+
+.image {
+  width: 350px;
+  height: auto;
+}
+
+
+.sidebar {
+  margin: 15px;
+  width: 350px;
+  float: right;
+  background-color: hotpink;
+}
+
+body {
+  color: white;
+  background-color: #241c5b;
+  }
+
+  .color{
+    text-shadow: 5px;
+    color: white;
+  }
