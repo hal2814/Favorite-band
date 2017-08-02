@@ -26,6 +26,7 @@ h2 {
 }
 
 .img {
+  border: 2px solid silver;
   margin: 15px;
   width: 350px;
   height: auto;
@@ -35,12 +36,15 @@ h2 {
 }
 
 .image {
+  padding: 2px;
+  border: 2px solid silver;
   width: 350px;
   height: auto;
 }
 
 
 .sidebar {
+  border: 2px solid silver;
   margin: 15px;
   width: 350px;
   float: right;
